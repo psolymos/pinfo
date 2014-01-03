@@ -1,0 +1,24 @@
+Project: PNAME
+Version: 1.0
+Iherits: super_project_name
+Forked: parent_project
+Merged: predecessor_projects
+StartDate: 2013-11-19
+Deadline:
+EndDate:
+Milestone: STARTED/DRAFTED/COMPLETED
+Status: ACTIVE/PENDING/ETC
+Format: NOTE/POSTER/SLIDES/REPORT/MS
+Title: Title
+LeadAuthor: psolymos
+Collaborators:
+Summary: Describe it
+Rpkg: R_pkg
+Agency: BAM/ABMI/ETC
+Citation: PAPER_OUTPUT
+Theme: POP/COM/MOLL/MISC/STAT
+Taxon: Mollusca/Aves
+SpatialScale: MICRO/CONTINENTAL/ETC
+TimeSpan: YEAR/DECADE
+BiolLevel: POPULATION/COMMUNITY/ETC
+Priority: 0
