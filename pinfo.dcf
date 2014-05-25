@@ -11,6 +11,7 @@ Status: ACTIVE/PENDING/ETC
 Format: NOTE/POSTER/SLIDES/REPORT/MS
 Title: Title
 LeadAuthor: psolymos
+Role: analysis, programing, writing, editing
 Collaborators:
 Summary: Describe it
 Rpkg: R_pkg
