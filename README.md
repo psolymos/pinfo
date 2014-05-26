@@ -21,9 +21,10 @@ that describes a current snapshot of ongoing projects and their inheritence stru
 Intended usage
 --------------
 
-````r
+Here is a few-liner on intended usage:
+
+````R
 x <- list.files(".", recursive=TRUE, include.dirs=TRUE,full.names=TRUE)
-x <- 
 pinfo_db <- lapply(x[grep("pinfo.dcf",x)], read.dcf)
 ````
 
