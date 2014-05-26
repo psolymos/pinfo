@@ -21,7 +21,7 @@ that describes a current snapshot of ongoing projects and their inheritence stru
 Intended usage
 --------------
 
-Here is a few-liner on intended usage:
+Here is a few-liner on intended usage in `R`:
 
 ````R
 x <- list.files(".", recursive=TRUE, include.dirs=TRUE,full.names=TRUE)
