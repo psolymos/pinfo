@@ -16,7 +16,7 @@ Each if these file share a common standardized format with standard field names.
 
 Project management is implemented via the `read.dcf` R function after scanning the
 hard drive for `pinfo.dcf` files. These files then assembled into a project summary document
-that describes a current snapshot of ongoing projects and their inheritance structure.
+that describes a current snapshot of ongoing projects and their inheritence structure.
 
 Intended usage
 --------------
@@ -30,4 +30,4 @@ pinfo_db <- lapply(x[grep("pinfo.dcf",x)], read.dcf)
 Standard fields and values
 --------------------------
 
-
+Standard field values are updated in the repo (`pinfo.dcf`), standard values are capitalized and also updated as required. Note: these are useful values for my work, feel free to fork and edit as you like.
